@@ -1,0 +1,1 @@
+<?php /**PATH /home/users/0/004/domains/qaz-fasad.testkz.ru/resources/views/pages/linkstorage.blade.php ENDPATH**/ ?>
